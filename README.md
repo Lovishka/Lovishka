@@ -93,6 +93,5 @@ I'm always open to collaborating on interesting projects, discussing tech, or ju
 
 *"Driven by curiosity, powered by code."*
 
-![Profile Views](https://komarev.com/ghpvc/?username=LovishkaSakuja&color=blueviolet&style=flat)
 
 </div>
