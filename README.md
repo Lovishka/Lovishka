@@ -7,20 +7,17 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovishka%20Sakuja-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovishka-sakuja)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201687-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com)
-[![Email](https://img.shields.io/badge/Email-lovishkasakuja1805%40gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:lovishkasakuja1805@gmail.com)
-
 </div>
 
 ---
 
 ## 🚀 About Me
 
-I'm a **B.Tech AI & DS student at Galgotias University** (CGPA: 9.39/10), passionate about building intelligent, scalable tech solutions. I bridge the gap between **frontend engineering** and **AI/ML** — crafting responsive UIs while also developing deep learning models and automating real-world workflows.
+I'm a **B.Tech AI & DS student at Galgotias University** (CGPA: 9.39/10), passionate about building intelligent, scalable tech solutions. I bridge the gap between **frontend engineering** and **AI/DS** — crafting responsive UIs while also developing deep learning models and automating real-world workflows.
 
 - 🎓 Graduating **July 2027** | Currently in 3rd year
 - 💼 Ex-Frontend Intern @ **DevsLane** | Ex-Data Science Intern @ **Mainflow Technologies**
 - 🧠 Strong foundation in **OOP**, **DSA**, and **cloud-based AI workflows**
-- 🏆 **Top 50** team in Smart India Hackathon (SIH) Pre-Qualifier
 - 💡 Driven by curiosity, problem-solving, and impactful tech
 
 ---
