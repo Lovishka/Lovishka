@@ -62,21 +62,13 @@ Automated hospital patient discharge system that replaces manual paperwork and l
 
 A deep learning model to detect AI-generated fake images and videos. Implemented CNN-based architectures with OpenCV preprocessing pipelines for accurate classification.
 
----
-
-## 💼 Experience
-
-| Role | Company | Duration |
-|------|---------|----------|
-| 🖥️ Frontend Development Intern | DevsLane | Jul 2025 – Sep 2025 |
-| 📊 Data Science with Python Virtual Intern | Mainflow Technologies | Nov 2024 – Dec 2024 |
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **Top 50 Teams** — Smart India Hackathon (SIH) Pre-Qualifier
-- 💻 **350+ DSA problems** solved across LeetCode (Rating: **1621**), Codeforces & GeeksforGeeks
+- 🥇 **Top 150 Teams** — Smart India Hackathon (SIH) Pre-Qualifier
+- 💻 **400+ DSA problems** solved across LeetCode (Rating: **1682**), Codeforces & GeeksforGeeks
 
 ---
 
