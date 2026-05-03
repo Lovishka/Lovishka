@@ -5,7 +5,7 @@
 **AI & Data Science Undergraduate  · Problem Solver**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovishka%20Sakuja-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/lovishka-sakuja)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201687-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201745-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com)
 </div>
 
@@ -17,7 +17,7 @@ I'm a **B.Tech AI & DS student at Galgotias University** (CGPA: 9.39/10), passio
 
 - 🎓 Graduating **July 2027** | Currently in 3rd year
 - 💼 Ex-Frontend Intern @ **DevsLane** | Ex-Data Science Intern @ **Mainflow Technologies**
-- 🧠 Strong foundation in **OOP**, **DSA**, and **cloud-based AI workflows**
+- 🧠 Strong foundation in **OOP**, **DSA**, and **AI workflows**
 - 💡 Driven by curiosity, problem-solving, and impactful tech
 
 ---
@@ -65,7 +65,7 @@ A deep learning model to detect AI-generated fake images and videos. Implemented
 ## 🏆 Achievements
 
 - 🥇 **Top 150 Teams** — Smart India Hackathon (SIH) Pre-Qualifier
-- 💻 **400+ DSA problems** solved across LeetCode (Rating: **1682**), Codeforces & GeeksforGeeks
+- 💻 **500+ DSA problems** solved across LeetCode (Rating: **1745**), Codeforces & GeeksforGeeks
 
 ---
 
