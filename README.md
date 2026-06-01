@@ -13,10 +13,9 @@
 
 ## 🚀 About Me
 
-I'm a **B.Tech AI & DS student at Galgotias University** (CGPA: 9.39/10), passionate about building intelligent, scalable tech solutions. I bridge the gap between **frontend engineering** and **AI/DS** — crafting responsive UIs while also developing deep learning models and automating real-world workflows.
+I'm a **B.Tech AI & DS student at Galgotias University** (CGPA: 9.38/10), passionate about building intelligent, scalable tech solutions. I bridge the gap between **frontend engineering** and **AI/DS** — crafting responsive UIs while also developing deep learning models and automating real-world workflows.
 
 - 🎓 Graduating **July 2027** | Currently in 3rd year
-- 💼 Ex-Frontend Intern @ **DevsLane** | Ex-Data Science Intern @ **Mainflow Technologies**
 - 🧠 Strong foundation in **OOP**, **DSA**, and **AI workflows**
 - 💡 Driven by curiosity, problem-solving, and impactful tech
 
@@ -63,9 +62,7 @@ A deep learning model to detect AI-generated fake images and videos. Implemented
 ---
 
 ## 🏆 Achievements
-
-- 🥇 **Top 150 Teams** — Smart India Hackathon (SIH) Pre-Qualifier
-- 💻 **500+ DSA problems** solved across LeetCode (Rating: **1745**), Codeforces & GeeksforGeeks
+- 💻 **600+ DSA problems** solved across LeetCode (Rating: **1699**), Codeforces & GeeksforGeeks
 
 ---
 
