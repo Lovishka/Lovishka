@@ -5,7 +5,7 @@
 **AI & Data Science Undergraduate · Problem Solver**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovishka%20Sakuja-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/lovishka-sakuja)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201699-FFA116?style=flat\&logo=leetcode\&logoColor=white)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201725-FFA116?style=flat\&logo=leetcode\&logoColor=white)](https://leetcode.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat\&logo=github\&logoColor=white)](https://github.com)
 
 </div>
@@ -75,7 +75,7 @@ Automated hospital patient discharge system that replaces manual paperwork and l
 ## 🏆 Achievements
 
 * 💻 **600+ DSA problems** solved across LeetCode, Codeforces & GeeksforGeeks
-* 🧠 **LeetCode Rating: 1699**
+* 🧠 **LeetCode Rating: 1725**
 * 🎓 **CGPA: 9.38/10**
 * 🚀 Built AI-powered and full-stack software solutions
 
