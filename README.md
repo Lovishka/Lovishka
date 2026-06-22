@@ -14,7 +14,7 @@
 
 ## 🚀 About Me
 
-I'm a **B.Tech AI & Data Science student at Galgotias University** (CGPA: **9.38/10**) passionate about building intelligent systems, developer tools, and scalable software solutions. From AI-powered automation platforms to full-stack applications, I enjoy leveraging technology to solve complex problems and create impactful user experiences.
+I'm a **B.Tech AI & Data Science student at Galgotias University** passionate about building intelligent systems, developer tools, and scalable software solutions. From AI-powered automation platforms to full-stack applications, I enjoy leveraging technology to solve complex problems and create impactful user experiences.
 
 * 🎓 Graduating **July 2027** | Currently in 3rd year
 * 🧠 Strong foundation in **OOP**, **DSA**, and **AI workflows**
