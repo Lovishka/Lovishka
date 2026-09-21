@@ -5,7 +5,7 @@
 **AI & Data Science Undergraduate · Problem Solver**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovishka%20Sakuja-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/lovishka-sakuja)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201725-FFA116?style=flat\&logo=leetcode\&logoColor=white)](https://leetcode.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201745-FFA116?style=flat\&logo=leetcode\&logoColor=white)](https://leetcode.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat\&logo=github\&logoColor=white)](https://github.com)
 
 </div>
@@ -16,7 +16,7 @@
 
 I'm a **B.Tech AI & Data Science student at Galgotias University** passionate about building intelligent systems, developer tools, and scalable software solutions. From AI-powered automation platforms to full-stack applications, I enjoy leveraging technology to solve complex problems and create impactful user experiences.
 
-* 🎓 Graduating **July 2027** | Currently in 3rd year
+* 🎓 Graduating **July 2027** | Currently in 4th year
 * 🧠 Strong foundation in **OOP**, **DSA**, and **AI workflows**
 * 💡 Driven by curiosity, problem-solving, and impactful tech
 
@@ -74,9 +74,9 @@ Automated hospital patient discharge system that replaces manual paperwork and l
 
 ## 🏆 Achievements
 
-* 💻 **600+ DSA problems** solved across LeetCode, Codeforces & GeeksforGeeks
-* 🧠 **LeetCode Rating: 1725**
-* 🎓 **CGPA: 9.38/10**
+* 💻 **950+ DSA problems** solved across LeetCode, Codeforces & GeeksforGeeks
+* 🧠 **LeetCode Rating: 1745**
+* 🎓 **CGPA: 9.41/10**
 * 🚀 Built AI-powered and full-stack software solutions
 
 ---
