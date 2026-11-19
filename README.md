@@ -4,7 +4,7 @@
 
 **AI & Data Science Undergraduate · Problem Solver**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovishka%20Sakuja-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lovishka-sakuja-a63b8b297/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovishka%20Sakuja-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lovishka-sakuja-a63b8b297)
 [![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201745-FFA116?style=flat\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/Lovishka_sakuja18/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Lovishka)
 
