@@ -4,9 +4,9 @@
 
 **AI & Data Science Undergraduate · Problem Solver**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovishka%20Sakuja-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://linkedin.com/in/lovishka-sakuja)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201745-FFA116?style=flat\&logo=leetcode\&logoColor=white)](https://leetcode.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat\&logo=github\&logoColor=white)](https://github.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lovishka%20Sakuja-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/lovishka-sakuja-a63b8b297/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-Rating%201745-FFA116?style=flat\&logo=leetcode\&logoColor=white)](https://leetcode.com/u/Lovishka_sakuja18/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat\&logo=github\&logoColor=white)](https://github.com/Lovishka)
 
 </div>
 
@@ -17,7 +17,7 @@
 I'm a **B.Tech AI & Data Science student at Galgotias University** passionate about building intelligent systems, developer tools, and scalable software solutions. From AI-powered automation platforms to full-stack applications, I enjoy leveraging technology to solve complex problems and create impactful user experiences.
 
 * 🎓 Graduating **July 2027** | Currently in 4th year
-* 🧠 Strong foundation in **OOP**, **DSA**, and **AI workflows**
+* 🧠 Strong foundation in **OOPS**, **DSA**, and **AI workflows**
 * 💡 Driven by curiosity, problem-solving, and impactful tech
 
 ---
@@ -85,7 +85,7 @@ Automated hospital patient discharge system that replaces manual paperwork and l
 
 I'm always open to collaborating on interesting projects, discussing tech, or just saying hi!
 
-* 💼 **LinkedIn**: [Lovishka Sakuja](https://linkedin.com/in/lovishka-sakuja)
+* 💼 **LinkedIn**: [Lovishka Sakuja](https://www.linkedin.com/in/lovishka-sakuja-a63b8b297/)
 
 ---
 
